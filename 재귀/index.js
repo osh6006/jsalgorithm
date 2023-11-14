@@ -58,4 +58,5 @@ function combinations(arr, n) {
   return result;
 }
 
-permutations([1, 2, 3, 4], 3);
+console.log(permutations([1, 2, 3, 4], 3));
+// console.log(combinations([1, 2, 3, 4], 3));
